@@ -9,7 +9,7 @@ Javaで動的コンパイルを行う。
 モジュールパスに追加して使用
 
 # コンパイル済バイナリ
-https://github.com/2T-T2/dynamic-compile-java/releases/download/0.0.0.0/t_panda.compiler.jarhttps://github.com/2T-T2/dynamic-compile-java/releases/download/0.0.0.0/t_panda.compiler.jar
+https://github.com/2T-T2/dynamic-compile-java/releases/download/0.0.0.0/t_panda.compiler.jar
 
 # ビルド方法
 1. intellij ideaでビルド
