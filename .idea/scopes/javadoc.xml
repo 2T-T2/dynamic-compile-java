@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="javadoc" pattern="file[t_panda.compiler]:src/t_panda.compiler//*&amp;&amp;!file[t_panda.compiler]:src/t_panda.compiler/t_panda/compiler/internal//*" />
+</component>
